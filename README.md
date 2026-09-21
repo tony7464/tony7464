@@ -36,4 +36,4 @@ JavaScript, React, HTML, CSS, Node.js, Python, Flask, pytest, Git, GDScript
 
 - GitHub: [tony7464](https://github.com/tony7464)
 - X: [@Tony4_19](https://x.com/Tony4_19)
-- Salt Lake City, UT
+- Richmond, TX
