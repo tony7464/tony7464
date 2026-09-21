@@ -1,6 +1,6 @@
 # Jose Rayos (Tony)
 
-Entry-level software engineer in Salt Lake City, Utah. I build web applications, REST APIs, and command-line tools with JavaScript, React, Python, and Flask.
+Entry-level software engineer in Richmond, TX. I build web applications, REST APIs, and command-line tools with JavaScript, React, Python, and Flask.
 
 I am looking for an entry-level software engineer role.
 
